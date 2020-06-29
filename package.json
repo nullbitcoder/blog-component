@@ -1,0 +1,28 @@
+{
+  "name": "blog-component",
+  "version": "1.0.0",
+  "description": "This is a blog component for main portfolio written in VanillaJS, MongoDB, and Express for now... Will later be broken down and moved into a React(Django) component/React Router/hooks for live server with PythonAnywhere.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nullbitcoder/blog-component.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nullbitcoder/blog-component/issues"
+  },
+  "homepage": "https://github.com/nullbitcoder/blog-component#readme",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.20"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
