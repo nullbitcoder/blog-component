@@ -25,11 +25,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WebDevSimplified/Markdown-Blog.git"
+    "url": "git+https://github.com/nullbitcoder/blog-component"
   },
   "bugs": {
-    "url": "https://github.com/WebDevSimplified/Markdown-Blog/issues"
+    "url": "https://github.com/nullbitcoder/blog-component/issues"
   },
-  "homepage": "https://github.com/WebDevSimplified/Markdown-Blog#readme",
+  "homepage": "https://github.com/nullbitcoder/blog-component#readme",
   "description": ""
 }
