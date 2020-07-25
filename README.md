@@ -1,3 +1,3 @@
 # blog-component
 
-express, mongoDB mongoose, marked, slugify, dimpurify, jsdom
+express, mongoDB, marked, slugify, dompurify, jsdom, node
