@@ -1,4 +1,4 @@
-node, express, mongoDB, marked, slugify, dompurify, jsdom, nodemon.
+nodeJS, express, mongoDB, marked, slugify, dompurify, jsdom, nodemon.
 
 1. Need MongoDB running, as well as libraries installed with npm
 2. Inside project Dir terminal run: npm run myServer
