@@ -1,9 +1,7 @@
-node, express, mongoDB, marked, slugify, dompurify, jsdom.
+node, express, mongoDB, marked, slugify, dompurify, jsdom, nodemon.
 
-
-1) Need MongoDB running, as well as libraries installed with npm
-2) Inside project Dir terminal run: npm run myServer
-
+1. Need MongoDB running, as well as libraries installed with npm
+2. Inside project Dir terminal run: npm run myServer
 
 This is what it should look like once running.
 ![blog-Example](https://user-images.githubusercontent.com/63518384/88444933-37776d80-cde5-11ea-916c-605f8233f89c.png)
